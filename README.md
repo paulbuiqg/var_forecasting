@@ -29,9 +29,9 @@ from 2021-06-05 to 2024-06-02.
 We aim at computing the one-day-ahead value-at-risk (VaR) for the log-returns of the 4 assets.
 
 The VaR at level $\alpha$ is defined as the value such that:
-$$
-P[X < \operatorname{VaR}_\alpha] < 1 - \alpha
-$$
+
+$$ P[X < \text{VaR}_\alpha] < 1 - \alpha $$
+
 where $X$ is the log-return. We set $\alpha = 0.95$.
 
 The training period is from 2021-06-05 to 2023-10-27 (80% of the data). The test period is from 2023-10-28 to 2024-06-02.
