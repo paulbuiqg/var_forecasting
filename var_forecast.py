@@ -144,7 +144,7 @@ data_var['EUR_model_var'] = EUR_model_var
 data_var.to_csv('VaR.csv', index=False)
 
 # %%
-# Var violations
+# VaR violations
 
 data_var['BTC_hist_var_violation'] = data_var['BTC_hist_var'] > data_test['BTC_return']
 data_var['BTC_model_var_violation'] = data_var['BTC_model_var'] > data_test['BTC_return']
