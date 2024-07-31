@@ -12,16 +12,16 @@ The data is composed of 4 timeseries of daily prices for:
 from 2021-06-05 to 2024-06-02.
 
 <p align="center">
-  <img src="/Users/paul/Code/IFT/viz/BTC.png" />
+  <img src="https://github.com/paulbuiqg/var_forecasting/blob/main/viz/BTC.png" />
 </p>
 <p align="center">
-  <img src="/Users/paul/Code/IFT/viz/ETH.png" />
+  <img src="https://github.com/paulbuiqg/var_forecasting/blob/main/viz/ETH.png" />
 </p>
 <p align="center">
-  <img src="/Users/paul/Code/IFT/viz/SNT.png" />
+  <img src="https://github.com/paulbuiqg/var_forecasting/blob/main/viz/SNT.png" />
 </p>
 <p align="center">
-  <img src="/Users/paul/Code/IFT/viz/EUR.png" />
+  <img src="https://github.com/paulbuiqg/var_forecasting/blob/main/viz/EUR.png" />
 </p>
 
 ## Probleme Statement
@@ -59,19 +59,19 @@ The following table gathers the percentage of VaR violations in the test period.
 | EUR | 1.4%       | 1.8%  |
 
 <p align="center">
-  <img src="/Users/paul/Code/IFT/viz/BTC_VaR.png" />
+  <img src="https://github.com/paulbuiqg/var_forecasting/blob/main/viz/BTC_VaR.png" />
 </p>
 
 <p align="center">
-  <img src="/Users/paul/Code/IFT/viz/ETH_VaR.png" />
+  <img src="https://github.com/paulbuiqg/var_forecasting/blob/main/viz/ETH_VaR.png" />
 </p>
 
 <p align="center">
-  <img src="/Users/paul/Code/IFT/viz/SNT_VaR.png" />
+  <img src="https://github.com/paulbuiqg/var_forecasting/blob/main/viz/SNT_VaR.png" />
 </p>
 
 <p align="center">
-  <img src="/Users/paul/Code/IFT/viz/EUR_VaR.png" />
+  <img src="https://github.com/paulbuiqg/var_forecasting/blob/main/viz/EUR_VaR.png" />
 </p>
 
 As a VaR forecast performance metric, in the below table, we compute the absolute difference between the empirical VaR violation rate (in percentage) and the theoretical value of 5%. The metric is expressed in percentage points (pp).
